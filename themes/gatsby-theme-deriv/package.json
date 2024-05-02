@@ -45,7 +45,7 @@
     "cssnano": "^5.1.15",
     "deriv-api-ts": "^1.0.7",
     "embla-carousel-autoplay": "^6.2.0",
-    "embla-carousel-react": "8.0.0-rc11",
+    "embla-carousel-react": "8.0.2",
     "eslint-import-resolver-node": "^0.3.9",
     "extend": "^3.0.2",
     "firebase": "^9.23.0",
